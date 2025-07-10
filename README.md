@@ -74,5 +74,5 @@ LIMS Developer | Full-Stack Learner | AI/ML Enthusiast
 
 ## 🧾 Citation
 
-> Puja Kumari, et al. “Prediction of GATE Examination Clearance for Fresh Graduate Candidates.” Advances in Communication and Computational Technology, LNNS, Springer, 2024.
+> Puja Kumari, et al. “Prediction of GATE Examination Clearance for Fresh Graduate Candidates.” Advances in Communication and Computational Technology, LNNS, Springer, 2023.
 
